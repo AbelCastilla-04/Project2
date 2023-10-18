@@ -1,4 +1,4 @@
 
-#main-navbar {
-  background-color: navy;
+body {
+  background: linear-gradient(navy, lightblue);
 }
