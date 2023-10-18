@@ -11,6 +11,7 @@ body {
   position: sticky
   padding: 20px;
   color: white;
+  width: 25%;
 }
 
 #main-navbar {
@@ -23,12 +24,12 @@ body {
 #main-navbar ul li {
   list-style-type: none;
   color: navy;
-  display: inline-block;
+  display: inline;
 }
 
 #main-info {
   padding: 10px;
-  float: right;
+  float: left;
   text-align: center;
   width: 50%;
 }
