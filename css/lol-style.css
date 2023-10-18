@@ -43,7 +43,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  width: 25%;
+  width: 20%;
 }
 
 iframe {
@@ -54,23 +54,23 @@ iframe {
 #ability1 {
   padding: 10px;
   float: left;
-  width: 25%;
+  width: 20%;
 }
 
 #ability2 {
   padding: 10px;
   float: left;
-  width: 25%;
+  width: 20%;
 }
 
 #ability3 {
   padding: 10px;
   float: left;
-  width: 25%;
+  width: 20%;
 }
 
 #ability4 {
   padding: 10px;
   float:right;
-  width: 25%;
+  width: 20%;
 }
