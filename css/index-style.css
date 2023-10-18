@@ -4,13 +4,12 @@ body {
 }
 
 #main-navbar {
-  background-color: navy;
   margin: 0;
   padding: 0;
 }
 
 #main-navbar ul li {
   list-style-type: none;
-  position: relative;
+  position: center;
   display: inline;
 }
