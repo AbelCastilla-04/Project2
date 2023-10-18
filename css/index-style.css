@@ -35,10 +35,11 @@ body {
   padding: 10px;
 }
 
-.column.side {
+.column.middle {
   width: 25%;
 }
 
-.column.middle {
+.column.side {
   width: 50%;
 }
+
