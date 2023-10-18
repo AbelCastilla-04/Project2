@@ -15,21 +15,18 @@ body {
   background-color: white;
   width: 25%;
   overflow: hidden;
-}
-
-#navbar-container {
-  text-align: center;
-}
+} 
 
 #main-navbar ul li {
   list-style-type: none;
+  text-align: center;
   color: navy;
   display: inline-block;
 }
 
 #main-info {
   padding: 10px;
-  margin: auto;
+  margin-right: 50%;
   text-align: center;
   width: 50%;
 }
