@@ -2,3 +2,12 @@
 body {
   background: linear-gradient(navy, lightblue);
 }
+
+#main-navbar {
+  
+  list-style-type: none;
+}
+
+#main-navbar ul li {
+  display: inline;
+}
