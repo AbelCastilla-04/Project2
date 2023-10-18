@@ -11,12 +11,13 @@ body {
 }
 
 #main-navbar {
-  margin: 0;
-  padding: 0;
+  background-color: white;
+  overflow: hidden;
 }
 
 #main-navbar ul li {
   list-style-type: none;
   text-align: center;
-  display: inline;
+  color: navy;
+  display: block;
 }
