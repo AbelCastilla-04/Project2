@@ -19,14 +19,13 @@ body {
 
 #main-navbar ul li {
   list-style-type: none;
-  position: relative;
   color: navy;
   display: inline-block;
 }
 
 #main-info {
   padding: 10px;
-  float: right;
+  margin: auto;
   text-align: center;
   width: 50%;
 }
