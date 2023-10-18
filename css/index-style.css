@@ -23,9 +23,8 @@ body {
 }
 
 #main-navbar ul {
-  float: left;
+  float: center;
   list-style-type: none;
-  margin: center;
   color: navy;
   display: inline;
 }
