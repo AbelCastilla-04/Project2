@@ -17,6 +17,10 @@ body {
   overflow: hidden;
 }
 
+#navbar-container {
+    text-align: center;
+}
+
 #main-navbar ul li {
   list-style-type: none;
   color: navy;
