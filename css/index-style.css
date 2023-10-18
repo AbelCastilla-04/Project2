@@ -15,12 +15,9 @@ body {
 
 #main-navbar {
   background-color: white;
+  text-align: center;
   width: 25%;
   overflow: hidden;
-} 
-
-#main-navbar ul {
-  text-align: center;
 }
 
 #main-navbar ul li {
