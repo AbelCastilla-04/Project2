@@ -30,6 +30,11 @@ body {
   display: inline;
 }
 
+#side-info p {
+  padding: 10px;
+  text-align: center;
+}
+
 #side-info {
   padding: 10px;
   float: left;
