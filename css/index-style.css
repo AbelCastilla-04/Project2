@@ -27,7 +27,8 @@ body {
 #main-info {
   padding: 10px;
   float: right;
-  width: 75%;
+  text-align: center;
+  width: 50%;
 }
 
 #side-info {
