@@ -1,4 +1,27 @@
 
 body {
-  background: linear-gradient(navy, lightblue);
+  background-color: lightblue;
+}
+
+.header p {
+  font-family: times;
+  text-align: center;
+  font-size: 50px;
+  background-color: navy;
+  position: sticky
+  padding: 20px;
+  color: white;
+}
+
+#main-navbar {
+  background-color: white;
+  text-align: center;
+  width: 25%;
+  overflow: hidden;
+}
+
+#main-navbar ul li {
+  list-style-type: none;
+  color: navy;
+  display: inline-block;
 }
