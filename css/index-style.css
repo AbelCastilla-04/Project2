@@ -16,7 +16,7 @@ body {
   overflow: hidden;
 }
 
-#main-navbar ul {
+#navbar-container {
   float: left;
   list-style-type: none;
   text-align: center;
