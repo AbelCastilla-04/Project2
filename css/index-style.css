@@ -6,6 +6,8 @@ body {
 .header p {
   font-family: times;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   font-size: 50px;
   background-color: navy;
   padding: 20px;
@@ -16,7 +18,7 @@ body {
 #main-navbar {
   background-color: white;
   text-align: center;
-  width: 150px;
+  width: 25%;
   overflow: hidden;
 }
 
