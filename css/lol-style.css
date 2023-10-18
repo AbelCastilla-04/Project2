@@ -36,10 +36,15 @@ body {
   height: 200px;
 }
 
+iframe {
+  width: 350px;
+  height: 200px;
+}
+
 #veigar-info {
   padding: 10px;
   float: left;
-  width: 50%;
+  width: 25%;
 }
 
 #ability1 {
