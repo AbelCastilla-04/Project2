@@ -30,18 +30,11 @@ body {
   display: inline;
 }
 
-#side-info p {
-  padding: 10px;
-}
-
 #side-info {
   padding: 10px;
   float: left;
   width: 25%;
-}
-
-#side-info ul li {
-  list-style-type: none;
+  
 }
 
 #main-info {
@@ -55,5 +48,4 @@ h2 {
   font-size: 40px;
   font-family: "garamond";
 }
-
 
