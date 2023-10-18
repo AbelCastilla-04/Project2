@@ -25,20 +25,18 @@ body {
 #main-navbar ul {
   list-style-type: none;
   color: navy;
-  display: inline;
+  display: inline-block;
 }
 
-.column {
-  float: right;
-  text-align: center;
+#main-info {
   padding: 10px;
-}
-
-.column.middle {
+  float: right;
   width: 75%;
 }
 
-.column.side {
+#side-info {
+  padding: 10px;
+  float: left
   width: 25%;
 }
 
