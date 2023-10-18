@@ -34,3 +34,33 @@ body {
   width: 350px;
   height: 200px;
 }
+
+#veigar-info {
+  padding: 10px;
+  float: left;
+  width: 50%;
+}
+
+#ability1 {
+  padding: 10px;
+  float: left;
+  width: 25%;
+}
+
+#ability2 {
+  padding: 10px;
+  float: left;
+  width: 25%;
+}
+
+#ability3 {
+  padding: 10px;
+  float: left;
+  width: 25%;
+}
+
+#ability4 {
+  padding: 10px;
+  float: left;
+  width: 25%;
+}
