@@ -4,7 +4,10 @@ body {
 }
 
 #header {
-	
+  font-family: times;
+  text-align: center;
+  font-size: 30px;
+  color: #000;
 }
 
 #main-navbar {
