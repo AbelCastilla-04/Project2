@@ -4,6 +4,7 @@ body {
 }
 
 .header p {
+  position: sticky;
   font-family: times;
   text-align: center;
   margin-left: auto;
