@@ -28,3 +28,9 @@ body {
   list-style-type: none;
   color: navy;
   display: inline;
+}
+
+#basic img {
+  width: 350px;
+  height: 350px:
+}
