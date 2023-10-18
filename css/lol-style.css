@@ -55,23 +55,23 @@ iframe {
 #ability1 {
   padding: 10px;
   float: left;
-  width: 20%;
+  width: 22%;
 }
 
 #ability2 {
   padding: 10px;
   float: left;
-  width: 20%;
+  width: 22%;
 }
 
 #ability3 {
   padding: 10px;
   float: left;
-  width: 20%;
+  width: 22%;
 }
 
 #ability4 {
   padding: 10px;
-  float:right;
-  width: 20%;
+  float:left;
+  width: 22%;
 }
