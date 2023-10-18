@@ -13,17 +13,13 @@ body {
 
 #main-navbar {
   background-color: white;
+  width: 25%;
   overflow: hidden;
-}
-
-#navbar-container {
-  float: right;
-  width: 50%;
-  position: relative;
 }
 
 #main-navbar ul {
   list-style-type: none;
+  position: relative;
   color: navy;
   display: inline-block;
 }
