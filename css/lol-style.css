@@ -31,19 +31,22 @@ body {
 }
   
 #image img {
-  width: 350px;
-  height: 200px;
-}
-
-iframe {
+  margin-left: auto;
+  margin-right: auto;
   width: 350px;
   height: 200px;
 }
 
 #veigar-info {
   padding: 10px;
-  float: left;
+  margin-left: auto;
+  margin-right: auto;
   width: 25%;
+}
+
+iframe {
+  width: 350px;
+  height: 200px;
 }
 
 #ability1 {
