@@ -11,6 +11,7 @@ body {
   position: sticky
   padding: 20px;
   color: white;
+  width: 25%;
 }
 
 #main-navbar {
