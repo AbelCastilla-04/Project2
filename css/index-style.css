@@ -33,7 +33,7 @@ body {
 #side-info {
   padding: 10px;
   float: left;
-  text-align: center;
+  display: block;
   width: 25%;
   
   
