@@ -33,15 +33,12 @@ body {
 
 #side-info p {
   padding: 10px;
-  text-align: center;
 }
 
 #side-info {
   padding: 10px;
   float: left;
-  text-align: center;
   width: 25%;
-  height: 100%;
 }
 
 #side-info ul li {
