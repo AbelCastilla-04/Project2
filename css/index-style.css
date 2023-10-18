@@ -6,7 +6,7 @@ body {
 .header p {
   font-family: times;
   text-align: center;
-  font-size: 30px;
+  font-size: 50px;
   padding: 20px;
   color: #000;
 }
@@ -17,6 +17,12 @@ body {
 }
 
 #navbar-container {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+
+#main-navbar ul {
   float: left;
   list-style-type: none;
   text-align: center;
