@@ -17,20 +17,19 @@ body {
 }
 
 #navbar-container {
-  float: left;
+  float: right;
   width: 50%;
   position: relative;
 }
 
 #main-navbar ul {
-  float: center;
   list-style-type: none;
   color: navy;
   display: inline;
 }
 
 .column {
-  float: left;
+  float: right;
   text-align: center;
   padding: 10px;
 }
