@@ -25,9 +25,9 @@ body {
 #main-navbar ul {
   float: left;
   list-style-type: none;
-  text-align: center;
+  align: center;
   color: navy;
-  display: block;
+  display: inline;
 }
 
 .column {
