@@ -41,6 +41,8 @@ body {
 
 #veigar-info {
   padding: 10px;
+  border: 10px;
+  background-color: rgb(210,145,255);
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -54,6 +56,7 @@ iframe {
 
 #ability1 {
   padding: 10px;
+  border: 10px;
   background-color: rgb(210,145,255);
   float: left;
   width: 23%;
@@ -61,6 +64,7 @@ iframe {
 
 #ability2 {
   padding: 10px;
+  border: 10px;
   background-color: rgb(210,145,255);
   float: left;
   width: 23%;
@@ -68,6 +72,7 @@ iframe {
 
 #ability3 {
   padding: 10px;
+  border: 10px;
   background-color: rgb(210,145,255);
   float: left;
   width: 23%;
@@ -75,6 +80,7 @@ iframe {
 
 #ability4 {
   padding: 10px;
+  border: 10px;
   background-color: rgb(210,145,255);
   float:left;
   width: 23%;

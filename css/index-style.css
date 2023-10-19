@@ -34,7 +34,7 @@ body {
   padding: 10px;
   float: left;
   display: block;
-  right: 50%;
+  margin-left: 50%;
   width: 25%;
 }
 
