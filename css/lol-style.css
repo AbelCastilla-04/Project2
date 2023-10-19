@@ -56,7 +56,7 @@ iframe {
 
 #ability1 {
   border: 10px;
-  padding: 50px;
+  padding: 25px;
   background-color: rgb(210,145,255);
   float: left;
   width: 350px;
@@ -70,7 +70,7 @@ iframe {
 
 #ability2 {
   border: 10px;
-  padding: 50px;
+  padding: 25px;
   background-color: rgb(210,145,255);
   float: right;
   width: 350px;
@@ -84,7 +84,7 @@ iframe {
 
 #ability3 {
   border: 10px;
-  padding: 50px;
+  padding: 25px;
   background-color: rgb(210,145,255);
   float: left;
   width: 350px;
@@ -98,7 +98,7 @@ iframe {
 
 #ability4 {
   border: 10px;
-  padding: 50px;
+  padding: 25px;
   background-color: rgb(210,145,255);
   float:right;
   width: 350px;
