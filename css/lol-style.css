@@ -61,8 +61,8 @@ iframe {
   float: left;
   width: 310px;
   height: 430px;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
   content: "";
   clear: both;
   display: table;
@@ -79,8 +79,8 @@ iframe {
   float: right;
   width: 310px;
   height: 350px;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
   content: "";
   clear: both;
   display: table;
@@ -97,8 +97,8 @@ iframe {
   float: left;
   width: 310px;
   height: 350px;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
   content: "";
   clear: both;
   display: table;
@@ -115,8 +115,8 @@ iframe {
   float:right;
   width: 310px;
   height: 350px;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
   content: "";
   clear: both;
   display: table;
