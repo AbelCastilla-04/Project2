@@ -65,6 +65,7 @@ iframe {
   margin-right: 40px;
   content: "";
   clear: both;
+  display: table;
 }
 
 #ability1 p {
@@ -82,7 +83,7 @@ iframe {
   margin-right: 40px;
   content: "";
   clear: both;
-  
+  display: table;
 }
 
 #ability2 p {
@@ -100,6 +101,7 @@ iframe {
   margin-right: 40px;
   content: "";
   clear: both;
+  display: table;
 }
 
 #ability3 p {
@@ -117,6 +119,7 @@ iframe {
   margin-right: 40px;
   content: "";
   clear: both;
+  display: table;
 }
 
 #ability4 p {
