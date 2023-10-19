@@ -1,6 +1,6 @@
 
 body {
-  background-color: slateblue;
+  background-color: rgb(60,0,100);
 }
 
 .header p {
@@ -54,24 +54,28 @@ iframe {
 
 #ability1 {
   padding: 10px;
+  background-color: rgb(210,145,255);
   float: left;
   width: 23%;
 }
 
 #ability2 {
   padding: 10px;
+  background-color: rgb(210,145,255);
   float: left;
   width: 23%;
 }
 
 #ability3 {
   padding: 10px;
+  background-color: rgb(210,145,255);
   float: left;
   width: 23%;
 }
 
 #ability4 {
   padding: 10px;
+  background-color: rgb(210,145,255);
   float:left;
   width: 23%;
 }
