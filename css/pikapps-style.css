@@ -30,6 +30,10 @@ body {
   display: inline;
 }
 
+#basic {
+  width: 50%
+}
+
 #basic img {
   float: left;
   width: 350px;
@@ -41,14 +45,26 @@ body {
   width: 300px;
 }
 
+#pikapp {
+  width: 50%
+}
+
 #pikapp img {
   width: 600px;
   height: 350px;
   float: right;
 }
 
+#creed {
+  width: 50%
+}
+
 #creed img {
   float: left;
+}
+
+#len {
+  width: 50%
 }
 
 #len img {
