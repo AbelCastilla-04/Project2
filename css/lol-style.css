@@ -59,7 +59,7 @@ iframe {
   padding: 50px;
   background-color: rgb(210,145,255);
   float: left;
-  width: 50%;
+  width: 350px;
   margin-left: 50px;
   margin-right: 50px;
 }
@@ -73,7 +73,7 @@ iframe {
   padding: 50px;
   background-color: rgb(210,145,255);
   float: right;
-  width: 50%;
+  width: 350px;
   margin-left: 50px;
   margin-right: 50px;
 }
@@ -87,7 +87,7 @@ iframe {
   padding: 50px;
   background-color: rgb(210,145,255);
   float: left;
-  width: 50%;
+  width: 350px;
   margin-left: 50px;
   margin-right: 50px;
 }
@@ -101,7 +101,7 @@ iframe {
   padding: 50px;
   background-color: rgb(210,145,255);
   float:right;
-  width: 50%;
+  width: 350px;
   margin-left: 50px;
   margin-right: 50px;
 }
