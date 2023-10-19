@@ -31,7 +31,11 @@ body {
 }
 
 #basic {
-  width: 50%
+  display: block;
+}
+
+#basic p {
+  width: 300px;
 }
 
 #basic img {
@@ -44,7 +48,11 @@ body {
 }
 
 #pikapp {
-  width: 50%
+  display: block;
+}
+
+#pikapp p {
+  width: 300px;
 }
 
 #pikapp img {
@@ -53,11 +61,19 @@ body {
 }
 
 #creed {
-  width: 50%
+  display: block;
+}
+
+#creed p {
+  width: 300px;
 }
 
 #len {
-  width: 50%
+  display: block;
+}
+
+#len p {
+  width: 300px;
 }
 
 #len img {
