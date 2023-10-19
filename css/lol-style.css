@@ -59,9 +59,13 @@ iframe {
   padding: 50px;
   background-color: rgb(210,145,255);
   float: left;
-  width: 350px;
+  width: 50%;
   margin-left: 50px;
   margin-right: 50px;
+}
+
+#ability1 p {
+  width: 300px;
 }
 
 #ability2 {
@@ -69,9 +73,13 @@ iframe {
   padding: 50px;
   background-color: rgb(210,145,255);
   float: right;
-  width: 350px;
+  width: 50%;
   margin-left: 50px;
   margin-right: 50px;
+}
+
+#ability2 p {
+  width: 300px;
 }
 
 #ability3 {
@@ -79,9 +87,13 @@ iframe {
   padding: 50px;
   background-color: rgb(210,145,255);
   float: left;
-  width: 350px;
+  width: 50%;
   margin-left: 50px;
   margin-right: 50px;
+}
+
+#ability3 p {
+  width: 300px;
 }
 
 #ability4 {
@@ -89,7 +101,11 @@ iframe {
   padding: 50px;
   background-color: rgb(210,145,255);
   float:right;
-  width: 350px;
+  width: 50%;
   margin-left: 50px;
   margin-right: 50px;
+}
+
+#ability4 p {
+  width: 300px;
 }
