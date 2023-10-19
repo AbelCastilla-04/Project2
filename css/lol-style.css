@@ -22,11 +22,11 @@ body {
   margin-right: auto;
   width: 25%;
   overflow: hidden;
+  color: white;
 }
 
 #main-navbar ul li {
   list-style-type: none;
-  color: white;
   display: inline;
 }
   
