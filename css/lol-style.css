@@ -55,33 +55,37 @@ iframe {
 }
 
 #ability1 {
-  padding: 50px;
   border: 10px;
   background-color: rgb(210,145,255);
   float: left;
   width: 350px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 #ability2 {
-  padding: 50px;
   border: 10px;
   background-color: rgb(210,145,255);
   float: right;
   width: 350px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 #ability3 {
-  padding: 50px;
   border: 10px;
   background-color: rgb(210,145,255);
   float: left;
   width: 350px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 #ability4 {
-  padding: 50px;
   border: 10px;
   background-color: rgb(210,145,255);
   float:right;
   width: 350px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
