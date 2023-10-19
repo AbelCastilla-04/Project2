@@ -49,6 +49,10 @@ body {
   width: 20%;
 }
 
+#abi {
+  color: white;
+}
+
 iframe {
   width: 350px;
   height: 200px;
