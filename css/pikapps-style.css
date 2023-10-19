@@ -45,18 +45,19 @@ body {
   height: 350px:
 }
 
-#basic h2, p {
+#basic h2 {
   width: 300px;
 }
 
 #pikapp {
   display: block;
+  float: right;
+  text-align: center;
 }
 
 #pikapp p {
   width: 300px;
-  float: right;
-  text-align: center;
+  
 }
 
 #pikapp img {
