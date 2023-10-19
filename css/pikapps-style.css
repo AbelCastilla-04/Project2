@@ -33,12 +33,12 @@ body {
 #basic {
   display: block;
   float: left;
-  text-align: center;
   margin: 50px;
 }
 
 #basic p {
   width: 300px;
+  text-align: center;
 }
 
 #basic img {
@@ -53,13 +53,12 @@ body {
 #pikapp {
   display: block;
   float: right;
-  text-align: center;
   margin: 50px;
 }
 
 #pikapp p {
   width: 300px;
-  
+  text-align: center;
 }
 
 #pikapp img {
@@ -70,23 +69,23 @@ body {
 #creed {
   display: block;
   float: left;
-  text-align: center;
   margin: 50px;
 }
 
 #creed p {
   width: 300px;
+  text-align: center;
 }
 
 #len {
   display: block;
   float: right;
-  text-align: center;
   margin: 50px;
 }
 
 #len p {
   width: 300px;
+  text-align: center;
 }
 
 #len img {
