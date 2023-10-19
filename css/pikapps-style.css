@@ -31,14 +31,24 @@ body {
 }
 
 #basic img {
+  float: left;
   width: 350px;
   height: 350px:
+}
+
+#basic h2, p {
+  float: left;
+  width: 300px;
 }
 
 #pikapp img {
   width: 600px;
   height: 350px;
   float: right;
+}
+
+#creed img {
+  float: left;
 }
 
 #len img {
