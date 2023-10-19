@@ -34,6 +34,7 @@ body {
   display: block;
   float: left;
   margin: 50px;
+  width: 30%;
 }
 
 #basic p {
@@ -54,6 +55,7 @@ body {
   display: block;
   float: right;
   margin: 50px;
+  width: 30%;
 }
 
 #pikapp p {
@@ -70,6 +72,7 @@ body {
   display: block;
   float: left;
   margin: 50px;
+  width: 30%;
 }
 
 #creed p {
