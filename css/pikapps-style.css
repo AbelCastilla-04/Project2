@@ -32,6 +32,8 @@ body {
 
 #basic {
   display: block;
+  float: left;
+  text-align: center;
 }
 
 #basic p {
@@ -53,6 +55,8 @@ body {
 
 #pikapp p {
   width: 300px;
+  float: right;
+  text-align: center;
 }
 
 #pikapp img {
@@ -62,6 +66,8 @@ body {
 
 #creed {
   display: block;
+  float: left;
+  text-align: center;
 }
 
 #creed p {
@@ -70,6 +76,8 @@ body {
 
 #len {
   display: block;
+  float: right;
+  text-align: center;
 }
 
 #len p {
