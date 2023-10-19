@@ -37,10 +37,12 @@ body {
 
 #pikapp img {
   width: 600px;
-  height: 350px:
+  height: 350px;
+  float: right;
 }
 
 #len img {
   width: 350px;
   height: 230px;
+  float: right;
 }
