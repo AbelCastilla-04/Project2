@@ -59,15 +59,15 @@ iframe {
   border: 10px;
   background-color: rgb(210,145,255);
   float: left;
-  width: 23%;
+  width: 50%;
 }
 
 #ability2 {
   padding: 10px;
   border: 10px;
   background-color: rgb(210,145,255);
-  float: left;
-  width: 23%;
+  float: right;
+  width: 50%;
 }
 
 #ability3 {
@@ -75,13 +75,13 @@ iframe {
   border: 10px;
   background-color: rgb(210,145,255);
   float: left;
-  width: 23%;
+  width: 50%;
 }
 
 #ability4 {
   padding: 10px;
   border: 10px;
   background-color: rgb(210,145,255);
-  float:left;
-  width: 23%;
+  float:right;
+  width: 50%;
 }
