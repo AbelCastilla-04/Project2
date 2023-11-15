@@ -1,0 +1,52 @@
+
+body {
+  background-color: lightblue;
+}
+
+.header p {
+  font-family: times;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 50px;
+  background-color: navy;
+  padding: 20px;
+  color: white;
+  width: 25%;
+}
+
+#main-navbar {
+  background-color: white;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  overflow: hidden;
+}
+
+#main-navbar ul li {
+  list-style-type: none;
+  color: navy;
+  display: inline;
+}
+
+#side-info {
+  padding-right: 200px;
+  padding-left: 125px;
+  float: left;
+  display: block;
+  width: 20%;
+}
+
+#main-info {
+  padding: 10px;
+  float: left;
+  text-align: center;
+  width: 25%;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: "garamond";
+}
+
