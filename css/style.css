@@ -42,13 +42,13 @@
 }
 
 #main-navbar1 ul li {
-  list-style-type: none;
+  text-decoration: none
   color: navy;
   display: inline;
 }
 
 #main-navbar2 ul li {
-  list-style-type: none;
+  text-decoration: none;
   color: white;
   display: inline;
 }
@@ -58,10 +58,17 @@
 #side-info {
   padding-right: 200px;
   padding-left: 125px;
-  list-style-type: none;
   float: left;
   display: block;
   width: 20%;
+}
+
+#side-info ul {
+  list-style-type: none;
+}
+
+#skill {
+  background-color: lightblue;
 }
 
 #main-info {
