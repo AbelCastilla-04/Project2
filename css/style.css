@@ -51,15 +51,6 @@ body {
   display: inline;
 }
 
-#veigar img {
-  padding: 10px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 350px;
-  height: 200px;
-}
-
 #side-info {
   padding-right: 200px;
   padding-left: 125px;
@@ -80,3 +71,98 @@ h2 {
   font-family: "garamond";
 }
 
+#veigar img {
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  height: 200px;
+}
+
+#veigar-info {
+  padding: 10px;
+  border: 10px;
+  background-color: rgb(210,145,255);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 20%;
+}
+
+#abi h2 {
+  color: white;
+}
+
+iframe {
+  width: 350px;
+  height: 200px;
+}
+
+#ability1 {
+  border: 10px;
+  padding: 25px;
+  background-color: rgb(210,145,255);
+  float: left;
+  width: 310px;
+  height: 430px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content: "";
+  display: table;
+}
+
+#ability1 p {
+  width: 300px;
+}
+
+#ability2 {
+  border: 10px;
+  padding: 25px;
+  background-color: rgb(210,145,255);
+  float: right;
+  width: 310px;
+  height: 350px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content: "";
+  display: table;
+}
+
+#ability2 p {
+  width: 300px;
+}
+
+#ability3 {
+  border: 10px;
+  padding: 25px;
+  background-color: rgb(210,145,255);
+  float: left;
+  width: 310px;
+  height: 350px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content: "";
+  display: table;
+}
+
+#ability3 p {
+  width: 300px;
+}
+
+#ability4 {
+  border: 10px;
+  padding: 25px;
+  background-color: rgb(210,145,255);
+  float:right;
+  width: 310px;
+  height: 350px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content: "";
+  display: table;
+}
+
+#ability4 p {
+  width: 300px;
+}
