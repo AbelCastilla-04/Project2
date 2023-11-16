@@ -1,3 +1,4 @@
+/* Index */
 
 #index body {
   background-color: lightblue;
@@ -26,7 +27,6 @@
   color: black;
   width: 25%;
 }
-
 #main-navbar {
   background-color: white;
   text-align: center;
@@ -70,6 +70,8 @@ h2 {
   font-size: 40px;
   font-family: "garamond";
 }
+
+/* PiKapps */
 
 #pkp body {
   background-color: lightblue;
@@ -160,6 +162,8 @@ h2 {
   width: 350px;
   height: 230px;
 }
+
+/* LOL */
 
 #lol body {
   background-color: rgb(60,0,100);
