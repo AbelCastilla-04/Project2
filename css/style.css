@@ -196,6 +196,7 @@ iframe {
   margin-right: 10px;
   content: "";
   display: table;
+  float: left;
 }
 
 #ability1 p {
@@ -212,6 +213,7 @@ iframe {
   margin-right: 10px;
   content: "";
   display: table;
+  float: right;
 }
 
 #ability2 p {
@@ -228,6 +230,7 @@ iframe {
   margin-right: 10px;
   content: "";
   display: table;
+  float: left;
 }
 
 #ability3 p {
@@ -244,18 +247,9 @@ iframe {
   margin-right: 10px;
   content: "";
   display: table;
+  float: right;
 }
 
 #ability4 p {
   width: 300px;
-}
-
-#firsthalf div {
-  display: flex;
-  justify-content: center;
-}
-
-#secondhalf div {
-  display: flex;
-  justify-content: center;
 }
