@@ -194,11 +194,15 @@
 #second {
   display: inline-block;
   width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 iframe {
   width: 350px;
   height: 200px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #ability1 {
@@ -211,7 +215,6 @@ iframe {
   margin-right: 10px;
   content: "";
   display: table;
-  float: left;
 }
 
 #ability1 p {
@@ -228,7 +231,6 @@ iframe {
   margin-right: 10px;
   content: "";
   display: table;
-  float: right;
 }
 
 #ability2 p {
@@ -245,7 +247,6 @@ iframe {
   margin-right: 10px;
   content: "";
   display: table;
-  float: left;
 }
 
 #ability3 p {
@@ -262,7 +263,6 @@ iframe {
   margin-right: 10px;
   content: "";
   display: table;
-  float: right;
 }
 
 #ability4 p {
