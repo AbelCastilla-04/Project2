@@ -1,7 +1,10 @@
 /* Index */
-
-#index body {
+#body1 body {
   background-color: lightblue;
+}
+
+#body2 body {
+  background-color: rgb(60,0,100);
 }
 
 .header1 p {
@@ -27,7 +30,7 @@
   color: black;
   width: 25%;
 }
-#main-navbar {
+#main-navbar1 {
   background-color: white;
   text-align: center;
   margin-left: auto;
@@ -36,7 +39,7 @@
   overflow: hidden;
 }
 
-#main-navbar {
+#main-navbar2 {
   background-color: rgb(210,145,255);
   text-align: center;
   margin-left: auto;
@@ -72,10 +75,6 @@
 }
 
 /* PiKapps */
-
-#pkp body {
-  background-color: lightblue;
-}
 
 #main-navbar-pkp {
   background-color: white;
@@ -164,10 +163,6 @@
 }
 
 /* LOL */
-
-#lol body {
-  background-color: rgb(60,0,100);
-}
 
 #main-navbar-lol {
   background-color: rgb(210,145,255);
