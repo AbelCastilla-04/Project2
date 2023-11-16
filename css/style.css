@@ -58,8 +58,6 @@
 
 #both{
   display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 #side-info {
@@ -191,15 +189,11 @@
 #first {
   display: inline-block;
   width: 50%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 #second {
   display: inline-block;
   width: 50%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 iframe {
