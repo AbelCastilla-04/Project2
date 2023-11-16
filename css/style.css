@@ -3,7 +3,7 @@ body {
   background-color: lightblue;
 }
 
-.header p {
+.header1 p {
   font-family: times;
   text-align: center;
   margin-left: auto;
@@ -12,6 +12,18 @@ body {
   background-color: navy;
   padding: 20px;
   color: white;
+  width: 25%;
+}
+
+.header2 p {
+  font-family: times;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 50px;
+  background-color: rgb(210,145,255);
+  padding: 20px;
+  color: black;
   width: 25%;
 }
 
