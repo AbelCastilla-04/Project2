@@ -1,5 +1,5 @@
 
-body {
+#index body {
   background-color: lightblue;
 }
 
@@ -69,6 +69,115 @@ body {
 h2 {
   font-size: 40px;
   font-family: "garamond";
+}
+
+#pkp body {
+  background-color: lightblue;
+}
+
+#main-navbar-pkp {
+  background-color: white;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  overflow: hidden;
+}
+
+#main-navbar-pkp ul li {
+  list-style-type: none;
+  color: navy;
+  display: inline;
+}
+
+#basic {
+  display: block;
+  float: left;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 30%;
+}
+
+#basic p {
+  width: 300px;
+  text-align: center;
+}
+
+#basic img {
+  width: 350px;
+  height: 350px;
+}
+
+#basic h2 {
+  width: 300px;
+}
+
+#pikapp {
+  display: block;
+  float: right;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 30%;
+}
+
+#pikapp p {
+  width: 300px;
+  text-align: center;
+}
+
+#pikapp img {
+  width: 600px;
+  height: 350px;
+}
+
+#creed {
+  display: block;
+  float: left;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 30%;
+}
+
+#creed p {
+  width: 300px;
+  text-align: center;
+}
+
+#len {
+  display: block;
+  float: right;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 30%;
+}
+
+#len p {
+  width: 300px;
+  text-align: center;
+}
+
+#len img {
+  width: 350px;
+  height: 230px;
+}
+
+#lol body {
+  background-color: rgb(60,0,100);
+}
+
+#main-navbar-lol {
+  background-color: rgb(210,145,255);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  overflow: hidden;
+}
+
+#main-navbar-lol ul li {
+  list-style-type: none;
+  color: white;
+  display: inline;
 }
 
 #veigar img {
