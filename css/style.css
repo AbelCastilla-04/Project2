@@ -51,6 +51,15 @@ body {
   display: inline;
 }
 
+#image-vei img {
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  height: 200px;
+}
+
 #side-info {
   padding-right: 200px;
   padding-left: 125px;
