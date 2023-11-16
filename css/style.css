@@ -1,11 +1,4 @@
-/* Index */
-#body1 body {
-  background-color: lightblue;
-}
-
-#body2 body {
-  background-color: rgb(60,0,100);
-}
+/* Basic Info*/
 
 .header1 p {
   font-family: times;
@@ -60,9 +53,12 @@
   display: inline;
 }
 
+/* Index */
+
 #side-info {
   padding-right: 200px;
   padding-left: 125px;
+  list-style-type: none;
   float: left;
   display: block;
   width: 20%;
