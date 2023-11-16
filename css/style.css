@@ -48,9 +48,15 @@
   overflow: hidden;
 }
 
-#main-navbar ul li {
+#main-navbar1 ul li {
   list-style-type: none;
   color: navy;
+  display: inline;
+}
+
+#main-navbar2 ul li {
+  list-style-type: none;
+  color: white;
   display: inline;
 }
 
@@ -75,21 +81,6 @@
 }
 
 /* PiKapps */
-
-#main-navbar-pkp {
-  background-color: white;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-  overflow: hidden;
-}
-
-#main-navbar-pkp ul li {
-  list-style-type: none;
-  color: navy;
-  display: inline;
-}
 
 #basic {
   display: block;
@@ -163,21 +154,6 @@
 }
 
 /* LOL */
-
-#main-navbar-lol {
-  background-color: rgb(210,145,255);
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-  overflow: hidden;
-}
-
-#main-navbar-lol ul li {
-  list-style-type: none;
-  color: white;
-  display: inline;
-}
 
 #veigar img {
   padding: 10px;
