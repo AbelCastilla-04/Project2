@@ -60,7 +60,7 @@
   padding-left: 125px;
   justify-content: center;
   display: block;
-  text-align: center;
+  float: left;
 }
 
 #side-info ul li {
@@ -75,6 +75,7 @@
   padding: 10px;
   justify-content: center;
   text-align: center;
+  float: right;
 }
 
 #index h2 {
@@ -250,9 +251,11 @@ iframe {
 }
 
 #firsthalf div {
+  display: flex;
   justify-content: center;
 }
 
 #secondhalf div {
+  display: flex;
   justify-content: center;
 }
