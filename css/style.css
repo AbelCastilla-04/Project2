@@ -188,10 +188,12 @@
 
 #first {
   display: inline-block;
+  width: 50%;
 }
 
 #second {
   display: inline-block;
+  width: 50%;
 }
 
 iframe {
