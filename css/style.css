@@ -178,6 +178,14 @@
   color: rgb(210,145,255);
 }
 
+#first {
+  display: inline-block;
+}
+
+#second {
+  display: inline-block;
+}
+
 iframe {
   width: 350px;
   height: 200px;
