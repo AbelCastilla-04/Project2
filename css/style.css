@@ -59,14 +59,12 @@
   justify-content: center;
   display: block;
   float: left;
-}
-
-#side-info ul li {
   list-style-type: none;
 }
 
 #skill {
   background-color: lightblue;
+  text-align: center;
 }
 
 #main-info {
