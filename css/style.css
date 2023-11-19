@@ -220,8 +220,7 @@ iframe {
   background-color: rgb(210,145,255);
   width: 310px;
   height: 310px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin: 10px;
   content: "";
   display: table;
 }
@@ -236,8 +235,7 @@ iframe {
   background-color: rgb(210,145,255);
   width: 310px;
   height: 310px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin: 10px;
   content: "";
   display: table;
 }
@@ -252,8 +250,7 @@ iframe {
   background-color: rgb(210,145,255);
   width: 310px;
   height: 310px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin: 10px;
   content: "";
   display: table;
 }
@@ -268,8 +265,7 @@ iframe {
   background-color: rgb(210,145,255);
   width: 310px;
   height: 310px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin: 10px;
   content: "";
   display: table;
 }
