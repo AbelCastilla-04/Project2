@@ -195,11 +195,15 @@
 }
 
 #first {
-  display: inline-block;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }
 
 #second {
-  display: inline-block;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }
 
 iframe {
