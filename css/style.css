@@ -64,8 +64,11 @@
 
 /* Index */
 
-#both{
-  display: inline-block;
+.both{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 #side-info {
