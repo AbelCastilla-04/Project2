@@ -1,5 +1,9 @@
 /* Basic Info*/
 
+.background1 {
+	background-color: rgb(76,81,109);
+}
+
 .header1 p {
   font-family: times;
   text-align: center;
