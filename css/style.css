@@ -91,9 +91,8 @@
   width: 800px;
 }
 
-#index h2 {
-  font-size: 40px;
-  font-family: "garamond";
+#main-info em {
+  font-family: "lobster";
 }
 
 /* PiKapps */
