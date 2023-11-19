@@ -44,12 +44,14 @@
 
 #main-navbar1 a {
   color: navy;
-  display: inline;
+  text-decoration: none;
+  
   
 }
 
 #main-navbar1 ul {
 	text-decoration: none;
+	display: inline;
 }
 
 #main-navbar2 ul li {
