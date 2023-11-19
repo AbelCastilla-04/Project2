@@ -45,7 +45,11 @@
 #main-navbar1 ul li {
   color: navy;
   display: inline;
-  text-decoration: none;
+  
+}
+
+#main-navbar1 ul {
+	text-decoration: none;
 }
 
 #main-navbar2 ul li {
