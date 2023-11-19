@@ -227,7 +227,7 @@ iframe {
 }
 
 #ability1 p {
-  width: 300px;
+  width: 310px;
 }
 
 #ability2 {
@@ -243,7 +243,7 @@ iframe {
 }
 
 #ability2 p {
-  width: 300px;
+  width: 310px;
 }
 
 #ability3 {
@@ -259,7 +259,7 @@ iframe {
 }
 
 #ability3 p {
-  width: 300px;
+  width: 310px;
 }
 
 #ability4 {
@@ -267,7 +267,7 @@ iframe {
   padding: 25px;
   background-color: rgb(210,145,255);
   width: 310px;
-  height: 300px;
+  height: 310px;
   margin-left: 10px;
   margin-right: 10px;
   content: "";
@@ -275,5 +275,5 @@ iframe {
 }
 
 #ability4 p {
-  width: 300px;
+  width: 310px;
 }
