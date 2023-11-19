@@ -192,6 +192,7 @@
 
 #abi h2 {
   color: rgb(210,145,255);
+  align-items: center;
 }
 
 #first {
@@ -234,7 +235,7 @@ iframe {
   padding: 25px;
   background-color: rgb(210,145,255);
   width: 310px;
-  height: 310px;
+  height: 300px;
   margin-left: 10px;
   margin-right: 10px;
   content: "";
@@ -266,7 +267,7 @@ iframe {
   padding: 25px;
   background-color: rgb(210,145,255);
   width: 310px;
-  height: 310px;
+  height: 300px;
   margin-left: 10px;
   margin-right: 10px;
   content: "";
