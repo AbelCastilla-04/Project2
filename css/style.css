@@ -42,7 +42,7 @@
   overflow: hidden;
 }
 
-#main-navbar1 ul li {
+#main-navbar1 a {
   color: navy;
   display: inline;
   
