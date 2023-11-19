@@ -45,17 +45,19 @@
 #main-navbar1 a {
   color: navy;
   text-decoration: none;
-  
-  
 }
 
-#main-navbar1 ul {
+#main-navbar1 ul li {
 	text-decoration: none;
 	display: inline;
 }
 
-#main-navbar2 ul li {
+#main-navbar2 a {
   color: white;
+  text-decoration: none;
+}
+
+#main-navbar2 ul li {
   display: inline;
   text-decoration: none;
 }
