@@ -73,9 +73,6 @@
 
 #side-info {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 33%;
 }
 
 #side-info ul li {
@@ -85,6 +82,7 @@
 #skill {
   background-color: lightblue;
   text-align: center;
+  width: 283px;
 }
 
 #main-info {
