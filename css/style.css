@@ -157,7 +157,7 @@
 #creed {
   content: "";
   display: table;
-  width: 400px;
+  width: 500px;
   text-align: center;
   align-items: center;
 }
@@ -165,7 +165,7 @@
 #len {
   content: "";
   display: table;
-  width: 400px;
+  width: 500px;
   text-align: center;
   align-items: center;
 }
