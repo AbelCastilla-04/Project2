@@ -11,6 +11,7 @@
 
 #background3 {
   background-image: linear-gradient(to right, blue, white, blue);
+  width: 1920px;
 }
 
 .header1 p {
