@@ -1,14 +1,14 @@
 /* Basic Info*/
 
-.background1 {
+#background1 {
   background-color: linear-gradient(rgb(115,194,251), white);
 }
 
-.background2 {
+#background2 {
   background-color: linear-gradient(rgb(102,0,102), white);
 }
 
-.background3 {
+#background3 {
   background-color: linear-gradient(to right, rgb(65,105,225), white, rgb(65,105,225));
 }
 
