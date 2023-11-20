@@ -149,7 +149,7 @@
 #letters {
   display: flex;
   flex-direction: column;
-  font-size: 340px;
+  font-size: 100px;
   padding: -200px;
   width: 640px;
   align-items: center;
