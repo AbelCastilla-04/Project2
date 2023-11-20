@@ -1,15 +1,15 @@
 /* Basic Info*/
 
 .background1 {
-	background-image: linear-gradient(to bottom right, rgb(115,194,251);
+	background-color: linear-gradient(to bottom right, rgb(115,194,251);
 }
 
 .background2 {
-	background-image: linear-gradient(to top left, rgb(102,0,102), white);
+	background-color: linear-gradient(to top left, rgb(102,0,102), white);
 }
 
 .background3 {
-	background-image: linear-gradient(to right, rgb(65,105,225), white, rgb(65,105,225));
+	background-color: linear-gradient(to right, rgb(65,105,225), white, rgb(65,105,225));
 }
 
 .header1 p {
