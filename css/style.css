@@ -6,6 +6,7 @@
 
 #background2 {
   background-image: linear-gradient(purple, white);
+  width: 1920px;
 }
 
 #background3 {
@@ -204,7 +205,7 @@
 #abi {
   color: rgb(210,145,255);
   height: 50px;
-  width: 1348px;
+  width: 1920px;
   text-align: center;
 }
 
