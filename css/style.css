@@ -205,6 +205,10 @@ iframe {
   margin-right: auto;
 }
 
+#all p {
+  width: 310px;
+}
+
 #ability1 {
   border: 10px;
   padding: 5px;
@@ -214,10 +218,6 @@ iframe {
   margin: 10px;
   content: "";
   display: table;
-}
-
-#ability1 p {
-  width: 320px;
 }
 
 #ability2 {
@@ -231,10 +231,6 @@ iframe {
   display: table;
 }
 
-#ability2 p {
-  width: 320px;;
-}
-
 #ability3 {
   border: 10px;
   padding: 5px;
@@ -246,10 +242,6 @@ iframe {
   display: table;
 }
 
-#ability3 p {
-  width: 320px;
-}
-
 #ability4 {
   border: 10px;
   padding: 5px;
@@ -259,8 +251,4 @@ iframe {
   margin: 10px;
   content: "";
   display: table;
-}
-
-#ability4 p {
-  width: 320px;
 }
