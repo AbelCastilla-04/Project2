@@ -117,7 +117,7 @@
 
 .whole {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: flex-start;
 }
 
 .whole p, h2 {
