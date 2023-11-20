@@ -128,7 +128,7 @@
 #half1 {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-evenly;
   width: 640px;
   align-items: center;
 }
@@ -141,10 +141,6 @@
 #basic img {
   width: 350px;
   height: 350px;
-}
-
-#basic h2 {
-  width: 300px;
 }
 
 #pikapp {
@@ -162,12 +158,13 @@
   flex-direction: column;
   font-size: 340px;
   width: 640px;
+  align-items: center;
 }
 
 #half2 {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-evenly;
   width: 640px;
   align-items: center;
 }
