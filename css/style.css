@@ -128,7 +128,7 @@
 #half1 {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-around;
   width: 640px;
   align-items: center;
 }
@@ -160,6 +160,7 @@
 #letters {
   display: flex;
   flex-direction: column;
+  justify-content: flex-start;
   font-size: 340px;
   width: 640px;
 }
@@ -167,7 +168,7 @@
 #half2 {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-around;
   width: 640px;
   align-items: center;
 }
