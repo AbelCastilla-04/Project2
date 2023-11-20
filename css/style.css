@@ -125,16 +125,9 @@
   text-align: center;	
 }
 
-#half1 {
-  display: flex;
-  flex-direction: column;
-  width: 640px;
-  align-items: center;
-}
-
 #basic {
   display: block;
-  width: 30%;
+  width: 640px;
   align-items: center;
 }
 
@@ -145,7 +138,7 @@
 
 #pikapp {
   display: block;
-  width: 30%;
+  width: 640px;
   text-align: center;
   align-items: center;
 }
@@ -164,22 +157,15 @@
   align-items: center;
 }
 
-#half2 {
-  display: flex;
-  flex-direction: column;
-  width: 640px;
-  align-items: center;
-}
-
 #creed {
   display: block;
-  width: 30%;
+  width: 640px;
   align-items: center;
 }
 
 #len {
   display: block;
-  width: 30%;
+  width: 640px;
   align-items: center;
 }
 
