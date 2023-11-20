@@ -113,14 +113,14 @@
 
 /* PiKapps */
 
+#whole p {
+  width: 300px;
+  text-align: center;	
+}
+
 #basic {
   display: block;
   width: 30%;
-}
-
-#basic p {
-  width: 300px;
-  text-align: center;
 }
 
 #basic img {
@@ -137,11 +137,6 @@
   width: 30%;
 }
 
-#pikapp p {
-  width: 300px;
-  text-align: center;
-}
-
 #pikapp img {
   width: 600px;
   height: 350px;
@@ -152,19 +147,9 @@
   width: 30%;
 }
 
-#creed p {
-  width: 300px;
-  text-align: center;
-}
-
 #len {
   display: block;
   width: 30%;
-}
-
-#len p {
-  width: 300px;
-  text-align: center;
 }
 
 #len img {
