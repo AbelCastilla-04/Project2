@@ -120,7 +120,7 @@
   align-items: center;
 }
 
-.whole p {
+.whole p, h2 {
   width: 300px;
   text-align: center;	
 }
