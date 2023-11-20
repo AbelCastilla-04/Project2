@@ -242,7 +242,7 @@ iframe {
 }
 
 #ability1:hover {
-	transform: translate(-10px)
+  transform: translate(-10px)
 }
 
 #ability2 {
@@ -258,7 +258,7 @@ iframe {
 }
 
 #ability2:hover {
-	transform: translate(-10px)
+  transform: translate(-10px)
 }
 
 #ability3 {
@@ -274,7 +274,7 @@ iframe {
 }
 
 #ability3:hover {
-	transform: translate(-10px)
+  transform: translate(-10px)
 }
 
 #ability4 {
@@ -290,5 +290,5 @@ iframe {
 }
 
 #ability4:hover {
-	transform: translate(-10px)
+  transform: translate(-10px)
 }
