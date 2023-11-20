@@ -114,13 +114,13 @@
 
 /* PiKapps */
 
-#whole {
+.whole {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
 }
 
-#whole p {
+.whole p {
   width: 300px;
   text-align: center;	
 }
