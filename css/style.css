@@ -4,6 +4,14 @@
 	background-color: rgb(115,194,251);
 }
 
+.background2 {
+	background-color: rgb(102,0,102);
+}
+
+.background3 {
+	background-color: rgb(218,165,32);
+}
+
 .header1 p {
   font-family: times;
   text-align: center;
