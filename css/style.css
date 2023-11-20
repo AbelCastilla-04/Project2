@@ -135,6 +135,7 @@
 #basic {
   display: block;
   width: 30%;
+  align-items: center;
 }
 
 #basic img {
@@ -146,6 +147,7 @@
   display: block;
   width: 30%;
   text-align: center;
+  align-items: center;
 }
 
 #pikapp img {
@@ -172,11 +174,13 @@
 #creed {
   display: block;
   width: 30%;
+  align-items: center;
 }
 
 #len {
   display: block;
   width: 30%;
+  align-items: center;
 }
 
 #len img {
